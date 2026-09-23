@@ -81,5 +81,5 @@ SerpApi-Research-Agent/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd SerpApi-Research-Agent
+git clone https://github.com/Sharvani1808/Repository-name-SerpApi-Research-Agent.git
+cd Repository-name-SerpApi-Research-Agent
